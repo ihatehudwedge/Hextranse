@@ -2,7 +2,7 @@
 
 HEX 코드를 문자열로 디코딩하는 프로그램
 
-Decoding program about dword hex code to text
+Decoding program about hex code to text
 
 # How to use?
 
