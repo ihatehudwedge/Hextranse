@@ -1,6 +1,6 @@
 # Hextranse
 
-DWORD 헥사 코드를 문자열로 디코딩하는 프로그램
+HEX 코드를 문자열로 디코딩하는 프로그램
 
 Decoding program about dword hex code to text
 
